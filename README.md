@@ -1,6 +1,8 @@
 # featurebranch_sample
 Feature Branch studies
 
+dev1
+
 Objetivo do exercício:
 - criar um branch que adicione 1 commit para cada uma das linhas:
   - b1
