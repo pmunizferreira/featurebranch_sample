@@ -2,6 +2,7 @@
 Feature Branch studies
 
 dev1
+dev2
 
 Objetivo do exercício:
 - criar um branch que adicione 1 commit para cada uma das linhas:
