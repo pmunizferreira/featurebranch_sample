@@ -2,6 +2,7 @@
 Feature Branch studies
 
 dev1
+dev2
 
 1 - Crie um repositório no GitHub e clone-o em sua máquina
 
