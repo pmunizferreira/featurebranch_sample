@@ -1,7 +1,7 @@
 # featurebranch_sample
 Feature Branch studies
 
-old dev1
+dev1
 old dev2
 old dev3
 
